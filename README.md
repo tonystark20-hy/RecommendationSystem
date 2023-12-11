@@ -14,8 +14,8 @@ The recommendation system uses cosine similarity to measure the similarity betwe
 * Apache Spark and PySpark set up on your local machine or a cluster.
 
 ## Resources
-* PySpark Documentation: Official documentation for PySpark.
-* PySpark Tutorial: PySpark tutorial for beginners.
-* Apache Spark: Official website for Apache Spark.
+* [PySpark Documentation](https://spark.apache.org/docs/latest/api/python/index.html): Official documentation for PySpark.
+* [PySpark Tutorial](https://spark.apache.org/docs/latest/api/python/getting_started/index.html): PySpark tutorial for beginners.
+* [Apache Spark](https://spark.apache.org/): Official website for Apache Spark.
 ## License
 This PySpark recommendation system using cosine similarity is licensed under the MIT License - see the LICENSE file for details.
